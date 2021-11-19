@@ -8,7 +8,6 @@ terraform {
 }
 
 variable "do_token" {}
-variable "pvt_key" {}
 
 variable "region" {
   default = "tor1"
